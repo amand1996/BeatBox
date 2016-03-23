@@ -1,4 +1,1 @@
 BeatBox is an app developed on Java Platform. It can produce a total of 16 instrumental sounds. It has been developed so as to produce music using these 16 sounds. Tempo regulator has also been added so as to change the tempo of the music played by the BeatBox.
-Author:
-Aman Dwivedi
-<aman_d1996@yahoo.com>
